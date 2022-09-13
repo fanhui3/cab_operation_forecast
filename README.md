@@ -10,9 +10,9 @@ visualization of current ops tempo and forecasting transport demand
 # Part 2 - TestDome
 1. The quiz was attempted within 1 hour and shortly upon receiving the test. However, due to urgent matters arising during the attempt, the attempt was rushed. Nevertheless, the SQL codes compiled with no errors. Please see the 2 amendments that need to be made to attain the required outputs. An email was also sent shortly after the attempt to Jasmine to highlight the corrections needed.
 
->* Q1. replace the first line with: *SELECT  department, COUNT(**DISTINCT** employee_id) AS sum_employee FROM employees*. This is to avoid double counting of same employee within the defined period. 
+>* Q1. Replace the first line with: *SELECT  department, COUNT(**DISTINCT** employee_id) AS sum_employee FROM employees*. This is to avoid double counting of same employee within the defined period. 
 >
->* Q2. add the following line at the end. *SELECT  department, **"WHERE from_date >= "2020-01-01" AND to_date <= 2020-12-31"*** This is to ensure the result is returned from specified date range. 
+>* Q2. Add the following line at the end: *SELECT  department, **"WHERE from_date >= "2020-01-01" AND to_date <= 2020-12-31"***. This is to ensure the result is returned from specified date range. 
 
 # part 3 - Forecasting and Demand Prediction (Additional Showcasing)
 1. The ipynb enclosed contains the code to predict taxi demand in the **specifed zone for any given hour** using:
