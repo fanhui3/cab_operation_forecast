@@ -12,7 +12,7 @@ visualization of current ops tempo and forecasting transport demand
 
 >* Q1. Replace the first line with: *SELECT  department, COUNT(**DISTINCT** employee_id) AS sum_employee FROM employees*. This is to avoid double counting of same employee within the defined period. 
 >
->* Q2. Add the following line at the end: *SELECT  department, **"WHERE from_date >= "2020-01-01" AND to_date <= 2020-12-31"***. This is to ensure the result is returned from specified date range. 
+>* Q2. Add the following line at the end: ***"WHERE from_date >= "2020-01-01" AND to_date <= 2020-12-31"***. This is to ensure the result is returned from specified date range. 
 
 # part 3 - Forecasting and Demand Prediction (Additional Showcasing)
 1. The ipynb enclosed contains the code to predict taxi demand in the **specifed zone for any given hour** using:
