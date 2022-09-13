@@ -5,7 +5,7 @@ visualization of current ops tempo and forecasting transport demand
 # Part 1 - Analytics and story telling of New York Taxi Operations (Task 2)
 1. Due to the large file size, dashboard could not be uploaded. Please download the file from the following dropboxlink:
 > * https://www.dropbox.com/s/eve4dycnb4yfpmf/dashboard.pbix?dl=0
-2. Analysis and recommendations of the file could be found in the repo in the form of a deck
+2. Analysis and recommendations of from the dashboard could be found in the repo in the form of a deck
 
 # Part 2 - TestDome
 1. The quiz was attempted within 1 hour and shortly upon receiving the test. However, due to urgent matters arising during the attempt, the attempt was rushed. Nevertheless, the SQL codes compiled with no errors. Please see the 2 amendments that need to be made to attain the required outputs. An email was also sent shortly after the attempt to Jasmine to highlight the corrections needed.
