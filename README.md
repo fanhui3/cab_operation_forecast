@@ -20,7 +20,7 @@ visualization of current ops tempo and forecasting transport demand
 >* XGBoost Predictor (85.0% R2 Score)
 >* ARIMA Time Series Forecasting 
 
-2. To set up place the following csv in the same location of the ipynb:
+2. To set up, place the following csv in the same location of the ipynb:
 >* tripdata.csv (cannot be uploaded on this repo due to file size issue)
 >* taxi_zone_lookup.csv
 
