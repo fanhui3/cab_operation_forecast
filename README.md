@@ -8,7 +8,7 @@ visualization of current ops tempo and forecasting transport demand
 2. Analysis and recommendations of the file could be found in the repo in the form of a deck
 
 # Part 2 - TestDome
-1. The quiz was attempted within 1 hour and shortly upon receiving the test. However, due to urgent matters arising during the attempt, the attempt was rush. Nevertheless, the SQL code compiled with no errors. Please see the 2 amendments that needs to be made to attain the required output. An email was sent shortly after Jasmine to highlight the correction needed.
+1. The quiz was attempted within 1 hour and shortly upon receiving the test. However, due to urgent matters arising during the attempt, the attempt was rushed. Nevertheless, the SQL codes compiled with no errors. Please see the 2 amendments that need to be made to attain the required outputs. An email was also sent shortly after the attempt to Jasmine to highlight the corrections needed.
 
 >* Q1. replace the first line with: SELECT  department, COUNT(**DISTINCT** employee_id) AS sum_employee FROM employees. This is to avoid double counting of same employee within the defined period. 
 >
